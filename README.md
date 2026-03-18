@@ -1,11 +1,11 @@
    Hi there👋. I am Abdul Azeez.
-- 🔭 I’m currently training in Vcube Software Solutions
-- 🌱 I’m currently learning on Full Stack java Developer Course
-- 👯 I’m looking to start my career as Software Developer
-- 🤔 I’m looking for help to get a opportunity
-- 💬 Ask me about anything which is related to me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an Ambivert
+- 🔭 I’m currently training in Vcube Software Solutions.
+- 🌱 I’m currently learning on Full Stack java Developer Course.
+- 👯 I’m looking to start my career as Software Developer.
+- 🤔 I’m looking for help to get a opportunity.
+- 💬 Ask me about anything which is related to me.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I am an Ambivert.
 
 <!--
 **azeezazeez/azeezazeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
