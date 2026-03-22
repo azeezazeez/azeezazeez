@@ -1,5 +1,5 @@
    Hi there👋. I am Abdul Azeez.
-- 🔭 I’m currently training in Vcube Software Solutions.
+- 🔭 I’m currently training in V Cube Software Solutions.
 - 🌱 I’m currently learning on Full Stack java Developer Course.
 - 👯 I’m looking to start my career as Software Developer.
 - 🤔 I’m looking for help to get a opportunity.
