@@ -1,5 +1,13 @@
 <div align="center">
 
+<img
+  src="YOUR_PROFILE_IMAGE_URL"
+  width="90"
+  height="90"
+  style="border-radius:50%;"
+  alt="Abdul Azeez"
+/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ABDUL%20AZEEZ&fontSize=58&fontColor=ffffff&fontAlignY=38&fontFamily=Pacifico&desc=FULL%20STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT%20%7C%20REACT%20%7C%20AI&descAlignY=61&descSize=16&animation=twinkling&color=0:020617,50:0F172A,100:0E75B6" width="100%" alt="Abdul Azeez"/>
 
 <br>
@@ -258,7 +266,7 @@ Linux • AWS
 <br>
 
 <img
-src="https://skillicons.dev/icons?i=java,spring,react,python,docker,aws"
+src="https://skillicons.dev/icons?i=java,spring,react,docker,aws"
 alt="Current Technology Focus"
 />
 
@@ -373,28 +381,6 @@ alt="All Repositories"
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=azeezazeez&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight"
-width="49%"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeezazeez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight"
-width="41%"
-alt="Top Languages"
-/>
-
-</div>
-
-<br>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -410,38 +396,6 @@ alt="GitHub Contribution Streak"
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=azeezazeez&theme=tokyo-night&hide_border=true&area=true&radius=12"
-width="95%"
-alt="GitHub Contribution Activity"
-/>
-
-</div>
-
-<br>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=azeezazeez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-width="95%"
-alt="GitHub Achievements"
-/>
-
-</div>
-
-<br>
-
----
-
 # 💻 Languages & Tools
 
 <div align="center">
@@ -449,7 +403,7 @@ alt="GitHub Achievements"
 ### ☕ Languages
 
 <img
-src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"
+src="https://skillicons.dev/icons?i=java,c,cpp,javascript"
 alt="Programming Languages"
 />
 
@@ -475,10 +429,10 @@ alt="Backend Technologies"
 
 ### 🗄️ Databases
 
-<img
-src="https://skillicons.dev/icons?i=mysql,postgres,oracle"
-alt="Databases"
-/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50" alt="MySQL PostgreSQL"/>
+  <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" height="50" alt="Oracle"/>
+</p>
 
 <br><br>
 
@@ -553,8 +507,6 @@ alt="Cloud Technologies"
 
 <td align="center" width="170">
 
-<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-
 <br><br>
 
 <b>AI Applications</b>
@@ -570,37 +522,6 @@ alt="Cloud Technologies"
 
 ---
 
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<p>
-<i>My contribution activity, visualized.</i>
-</p>
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/azeezazeez/azeezazeez/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/azeezazeez/azeezazeez/output/github-contribution-grid-snake.svg">
-
-<img
-src="https://raw.githubusercontent.com/azeezazeez/azeezazeez/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-/>
-
-</picture>
-
-</div>
-
-<br>
-
----
-
 # 📄 Resume
 
 <div align="center">
@@ -608,7 +529,7 @@ alt="GitHub Contribution Snake"
 <a href="https://github.com/azeezazeez/Portfolio/blob/main/Portfolio/public/AZEEZ_RESUME.pdf">
 
 <img
-src="https://img.icons8.com/?size=100&id=115648&format=png&color=000000"
+src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000"
 alt="AZEEZ_RESUME"
 />
 
@@ -624,7 +545,7 @@ alt="AZEEZ_RESUME"
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <div align="center">
 
