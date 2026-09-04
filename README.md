@@ -1,15 +1,737 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/achukatla-abdul-azeez) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://abdul-azeez.vercel.app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azeezazeez7989@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ABDUL%20AZEEZ&fontSize=58&fontColor=ffffff&fontAlignY=38&fontFamily=Pacifico&desc=FULL%20STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT%20%7C%20REACT%20%7C%20AI&descAlignY=61&descSize=16&animation=twinkling&color=0:020617,50:0F172A,100:0E75B6" width="100%" alt="Abdul Azeez"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=azeezazeez&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=azeezazeez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=azeezazeez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React;Building+AI-powered+applications+%F0%9F%A4%96;Turning+ideas+into+real-world+software;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%F0%9F%94%A5" alt="Typing Animation"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=azeezazeez&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br>
 
 ---
-[![](https://komarev.com/ghpvc/?username=azeezazeez&color=0e75b6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ======================== NAVIGATION ======================== -->
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="80">
+<a href="https://github.com/azeezazeez">
+<img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="38" height="38" alt="GitHub"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="https://linkedin.com/in/azeezazeez">
+<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="38" height="38" alt="LinkedIn"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="mailto:itsazeezwork@gmail.com">
+<img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="38" height="38" alt="Email"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="https://instagram.com/__azeez__azeez">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Instagram"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="https://leetcode.com/azeez3646">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" height="38" alt="LeetCode"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="https://abdul-azeez.vercel.app">
+<img src="https://img.icons8.com/?size=100&id=61977&format=png&color=000000" width="38" height="38" alt="Portfolio"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+<sub>
+GitHub&nbsp;&nbsp;•&nbsp;&nbsp;
+LinkedIn&nbsp;&nbsp;•&nbsp;&nbsp;
+Email&nbsp;&nbsp;•&nbsp;&nbsp;
+Instagram&nbsp;&nbsp;•&nbsp;&nbsp;
+LeetCode&nbsp;&nbsp;•&nbsp;&nbsp;
+Portfolio
+</sub>
+
+</div>
+
+<br>
+
+---
+
+# 👨‍💻 About Me
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🚀 Who I Am</h3>
+
+<p>
+I'm <b>Abdul Azeez</b>, a passionate <b>Full Stack Developer</b>
+from India who enjoys turning ideas into useful, real-world software.
+</p>
+
+<p>
+My primary focus is <b>Java Full Stack Development</b>, combining
+backend engineering with modern frontend development to build
+clean and practical applications.
+</p>
+
+<p>
+I'm also exploring <b>AI-powered applications</b> and experimenting
+with ways to bring intelligent features into real-world software.
+</p>
+
+<p>
+I believe the best way to learn technology is to
+<b>build, break, understand and improve.</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎯 What I Work With</h3>
+
+<table>
+
+<tr>
+<td>☕</td>
+<td>
+<b>Backend Development</b><br>
+<sub>Java • Spring Boot • REST APIs</sub>
+</td>
+</tr>
+
+<tr>
+<td>⚛️</td>
+<td>
+<b>Frontend Development</b><br>
+<sub>React • Angular • HTML • CSS • JavaScript</sub>
+</td>
+</tr>
+
+<tr>
+<td>🗄️</td>
+<td>
+<b>Database Development</b><br>
+<sub>MySQL • PostgreSQL • Oracle</sub>
+</td>
+</tr>
+
+<tr>
+<td>🤖</td>
+<td>
+<b>AI Applications</b><br>
+<sub>AI APIs • Intelligent application features</sub>
+</td>
+</tr>
+
+<tr>
+<td>🐳</td>
+<td>
+<b>Development & Deployment</b><br>
+<sub>Git • Docker • Linux • AWS</sub>
+</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="180">
+
+<h2>☕</h2>
+
+<b>Java</b>
+
+<br><br>
+
+<sub>
+Core Java<br>
+OOP • Collections • APIs
+</sub>
+
+</td>
+
+<td align="center" width="180">
+
+<h2>🌱</h2>
+
+<b>Spring Boot</b>
+
+<br><br>
+
+<sub>
+REST APIs<br>
+Backend Architecture
+</sub>
+
+</td>
+
+<td align="center" width="180">
+
+<h2>⚛️</h2>
+
+<b>React</b>
+
+<br><br>
+
+<sub>
+Modern UI<br>
+Component Development
+</sub>
+
+</td>
+
+<td align="center" width="180">
+
+<h2>🤖</h2>
+
+<b>AI Applications</b>
+
+<br><br>
+
+<sub>
+AI APIs<br>
+Intelligent Features
+</sub>
+
+</td>
+
+<td align="center" width="180">
+
+<h2>🐳</h2>
+
+<b>DevOps</b>
+
+<br><br>
+
+<sub>
+Docker<br>
+Linux • AWS
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+src="https://skillicons.dev/icons?i=java,spring,react,python,docker,aws"
+alt="Current Technology Focus"
+/>
+
+</div>
+
+<br>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<i>Projects where ideas become working software.</i>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<h2>🤖</h2>
+
+<h3>Nexus AI Chatbot</h3>
+
+<a href="https://github.com/azeezazeez/Nexus-AI-Chatbot">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=azeezazeez&repo=Nexus-AI-Chatbot&theme=tokyonight&hide_border=true"
+width="95%"
+alt="Nexus AI Chatbot"
+/>
+
+</a>
+
+<p>
+AI-powered conversational application focused on an interactive
+chatbot experience.
+</p>
+
+<p>
+<code>AI</code>
+<code>API</code>
+<code>Web</code>
+</p>
+
+<a href="https://github.com/azeezazeez/Nexus-AI-Chatbot">
+<img src="https://cdn.simpleicons.org/github/38BDF8" width="28" height="28" alt="GitHub"/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h2>🛒</h2>
+
+<h3>Cartify Web Application</h3>
+
+<a href="https://github.com/azeezazeez/Cartify-Web-Application">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=azeezazeez&repo=Cartify-Web-Application&theme=tokyonight&hide_border=true"
+width="95%"
+alt="Cartify Web Application"
+/>
+
+</a>
+
+<p>
+Full-stack e-commerce application designed around realistic
+shopping workflows.
+</p>
+
+<p>
+<code>Full Stack</code>
+<code>E-Commerce</code>
+<code>Web</code>
+</p>
+
+<a href="https://github.com/azeezazeez/Cartify-Web-Application">
+<img src="https://cdn.simpleicons.org/github/38BDF8" width="28" height="28" alt="GitHub"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/azeezazeez?tab=repositories">
+<img
+src="https://cdn.simpleicons.org/github/38BDF8"
+width="35"
+height="35"
+alt="All Repositories"
+/>
+</a>
+
+<br>
+
+<sub>Explore all repositories</sub>
+
+</div>
+
+<br>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=azeezazeez&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight"
+width="49%"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeezazeez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight"
+width="41%"
+alt="Top Languages"
+/>
+
+</div>
+
+<br>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=azeezazeez&theme=tokyonight&hide_border=true&border_radius=12"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+<br>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=azeezazeez&theme=tokyo-night&hide_border=true&area=true&radius=12"
+width="95%"
+alt="GitHub Contribution Activity"
+/>
+
+</div>
+
+<br>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=azeezazeez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+width="95%"
+alt="GitHub Achievements"
+/>
+
+</div>
+
+<br>
+
+---
+
+# 💻 Languages & Tools
+
+<div align="center">
+
+### ☕ Languages
+
+<img
+src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"
+alt="Programming Languages"
+/>
+
+<br><br>
+
+### 🌐 Frontend
+
+<img
+src="https://skillicons.dev/icons?i=html,css,react,angular"
+alt="Frontend Technologies"
+/>
+
+<br><br>
+
+### 🌱 Backend
+
+<img
+src="https://skillicons.dev/icons?i=spring"
+alt="Backend Technologies"
+/>
+
+<br><br>
+
+### 🗄️ Databases
+
+<img
+src="https://skillicons.dev/icons?i=mysql,postgres,oracle"
+alt="Databases"
+/>
+
+<br><br>
+
+### 🛠️ Tools & DevOps
+
+<img
+src="https://skillicons.dev/icons?i=git,github,docker,linux,postman"
+alt="Development Tools"
+/>
+
+<br><br>
+
+### ☁️ Cloud
+
+<img
+src="https://skillicons.dev/icons?i=aws"
+alt="Cloud Technologies"
+/>
+
+</div>
+
+<br>
+
+---
+
+# 🧠 Learning Pipeline
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="170">
+
+<img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+
+<br><br>
+
+<b>Java Full Stack</b>
+
+</td>
+
+<td align="center" width="170">
+
+<img src="https://skillicons.dev/icons?i=spring" width="50" alt="Spring Boot"/>
+
+<br><br>
+
+<b>Spring Boot</b>
+
+</td>
+
+<td align="center" width="170">
+
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
+
+<br><br>
+
+<b>React</b>
+
+</td>
+
+<td align="center" width="170">
+
+<img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/>
+
+<br><br>
+
+<b>Docker</b>
+
+</td>
+
+<td align="center" width="170">
+
+<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+
+<br><br>
+
+<b>AI Applications</b>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<p>
+<i>My contribution activity, visualized.</i>
+</p>
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/azeezazeez/azeezazeez/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/azeezazeez/azeezazeez/output/github-contribution-grid-snake.svg">
+
+<img
+src="https://raw.githubusercontent.com/azeezazeez/azeezazeez/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</picture>
+
+</div>
+
+<br>
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+<a href="https://github.com/azeezazeez/Portfolio/blob/main/Portfolio/public/AZEEZ_RESUME.pdf">
+
+<img
+src="https://img.icons8.com/?size=100&id=115648&format=png&color=000000"
+alt="AZEEZ_RESUME"
+/>
+
+<br>
+
+<b>View My Resume</b>
+
+</a>
+
+</div>
+
+<br>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="90">
+
+<a href="https://github.com/azeezazeez">
+<img
+src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000"
+width="36"
+height="36"
+alt="GitHub"
+/>
+</a>
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://linkedin.com/in/azeezazeez">
+<img
+src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
+width="36"
+height="36"
+alt="LinkedIn"
+/>
+</a>
+
+</td>
+
+<td align="center" width="90">
+
+<a href="mailto:itsazeezwork@gmail.com">
+<img
+src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"
+width="36"
+height="36"
+alt="Email"
+/>
+</a>
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://instagram.com/__azeez__azeez">
+<img
+src="https://cdn.simpleicons.org/instagram/E4405F"
+width="36"
+height="36"
+alt="Instagram"
+/>
+</a>
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://leetcode.com/azeez3646">
+<img
+src="https://cdn.simpleicons.org/leetcode/FFA116"
+width="36"
+height="36"
+alt="LeetCode"
+/>
+</a>
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://abdul-azeez.vercel.app">
+<img
+src="https://img.icons8.com/?size=100&id=61977&format=png&color=000000"
+width="36"
+height="36"
+alt="Portfolio"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<b>Open to opportunities, collaboration and interesting projects.</b>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>🚀 Build. Learn. Improve.</h2>
+
+<i>Thanks for stopping by.</i>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling&color=0:020617,50:0F172A,100:0E75B6"
+width="100%"
+alt="Footer"
+/>
+
+</div>
