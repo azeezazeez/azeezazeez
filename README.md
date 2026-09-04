@@ -290,7 +290,7 @@ alt="Current Technology Focus"
 <a href="https://github.com/azeezazeez/Nexus-AI-Chatbot">
 
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=azeezazeez&repo=Nexus-AI-Chatbot&theme=tokyonight&hide_border=true"
+src="https://lh3.googleusercontent.com/d/18Z341Q6-Dq9OZHVhNG7kZZwMHKTLfmJM"
 width="95%"
 alt="Nexus AI Chatbot"
 />
@@ -323,7 +323,7 @@ chatbot experience.
 <a href="https://github.com/azeezazeez/Cartify-Web-Application">
 
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=azeezazeez&repo=Cartify-Web-Application&theme=tokyonight&hide_border=true"
+src="https://lh3.googleusercontent.com/d/1GUGHfEonkxsCrqjiX9MtoRu0O__QMFNV"
 width="95%"
 alt="Cartify Web Application"
 />
