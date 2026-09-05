@@ -4,11 +4,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React;Building+AI-powered+applications+%F0%9F%A4%96;Turning+ideas+into+real-world+software;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%F0%9F%94%A5" alt="Typing Animation"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React;Building+AI-powered+applications+%F0%9F%9A%80;Turning+ideas+into+real-world+software;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%F0%9F%94%A5" alt="Typing Animation"/>
+
+</div>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=azeezazeez&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=azeezazeez&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square&labelColor=020617" alt="Profile Views"/>
+
+</div>
 
 </div>
 
@@ -90,7 +98,7 @@ Portfolio
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -124,157 +132,53 @@ I believe the best way to learn technology is to
 
 <h3 align="center">🎯 What I Work With</h3>
 
-<table align="center" cellspacing="0" cellpadding="8">
+<br>
+
+<!-- INNER TABLE -->
+
+<table align="center" width="90%" cellspacing="0" cellpadding="8">
 
 <tr>
-<td align="center" valign="middle" width="50">
-☕
-</td>
-<td valign="middle">
+<td align="center" width="45">☕</td>
+<td>
 <b>Backend Development</b><br>
 <sub>Java • Spring Boot • REST APIs</sub>
 </td>
 </tr>
 
 <tr>
-<td align="center" valign="middle" width="50">
-⚛️
-</td>
-<td valign="middle">
+<td align="center">⚛️</td>
+<td>
 <b>Frontend Development</b><br>
 <sub>React • Angular • HTML • CSS • JavaScript</sub>
 </td>
 </tr>
 
 <tr>
-<td align="center" valign="middle" width="50">
-🗄️
-</td>
-<td valign="middle">
+<td align="center">🗄️</td>
+<td>
 <b>Database Development</b><br>
 <sub>MySQL • PostgreSQL • Oracle</sub>
 </td>
 </tr>
 
 <tr>
-<td align="center" valign="middle" width="50">
-🤖
-</td>
-<td valign="middle">
+<td align="center">🤖</td>
+<td>
 <b>AI Applications</b><br>
 <sub>AI APIs • Intelligent application features</sub>
 </td>
 </tr>
 
 <tr>
-<td align="center" valign="middle" width="50">
-🐳
-</td>
-<td valign="middle">
+<td align="center">🐳</td>
+<td>
 <b>Development &amp; Deployment</b><br>
 <sub>Git • Docker • Linux • AWS</sub>
 </td>
 </tr>
 
 </table>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=75&text=CURRENT%20FOCUS&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=0:020617,25:06B6D4,50:22C55E,75:7C3AED,100:020617" width="100%" alt="CURRENT FOCUS"/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=45&lines=CURRENT%20FOCUS" width="100%" alt="CURRENT FOCUS animated title"/>
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="180">
-
-<h2>☕</h2>
-
-<b>Java</b>
-
-<br><br>
-
-<sub>
-Core Java<br>
-OOP • Collections • APIs
-</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<h2>🌱</h2>
-
-<b>Spring Boot</b>
-
-<br><br>
-
-<sub>
-REST APIs<br>
-Backend Architecture
-</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<h2>⚛️</h2>
-
-<b>React</b>
-
-<br><br>
-
-<sub>
-Modern UI<br>
-Component Development
-</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<h2><img src="https://skillicons.dev/icons?i=ai" width="25" alt="AI"/></h2>
-
-<b>AI Applications</b>
-
-<br><br>
-
-<sub>
-AI APIs<br>
-Intelligent Features
-</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<h2>🐳</h2>
-
-<b>DevOps</b>
-
-<br><br>
-
-<sub>
-Docker<br>
-Linux • AWS
-</sub>
 
 </td>
 
