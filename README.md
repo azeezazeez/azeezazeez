@@ -395,7 +395,7 @@ alt="GitHub Contribution Streak"
 ### ☕ Languages
 
 <img
-src="https://skillicons.dev/icons?i=java,c,cpp,javascript"
+src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"
 alt="Programming Languages"
 />
 
