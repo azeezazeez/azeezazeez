@@ -1,0 +1,147 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Animated RGB gradient -->
+    <linearGradient id="rgb" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055">
+        <animate attributeName="stop-color"
+                 values="#ff0055;#7c00ff;#00d9ff;#00ff88;#ff0055"
+                 dur="8s" repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="25%" stop-color="#7c00ff">
+        <animate attributeName="stop-color"
+                 values="#7c00ff;#00d9ff;#00ff88;#ff0055;#7c00ff"
+                 dur="8s" repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="50%" stop-color="#00d9ff">
+        <animate attributeName="stop-color"
+                 values="#00d9ff;#00ff88;#ff0055;#7c00ff;#00d9ff"
+                 dur="8s" repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="75%" stop-color="#00ff88">
+        <animate attributeName="stop-color"
+                 values="#00ff88;#ff0055;#7c00ff;#00d9ff;#00ff88"
+                 dur="8s" repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="100%" stop-color="#ff0055">
+        <animate attributeName="stop-color"
+                 values="#ff0055;#7c00ff;#00d9ff;#00ff88;#ff0055"
+                 dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Dark background -->
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <!-- RGB glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="280" rx="20"
+        fill="url(#background)"/>
+
+  <!-- RGB flowing wave 1 -->
+  <path d="M-50 80
+           C120 10 200 150 370 80
+           S620 10 790 80
+           S1040 150 1250 40"
+        fill="none"
+        stroke="url(#rgb)"
+        stroke-width="8"
+        filter="url(#glow)"
+        opacity="0.9">
+
+    <animate attributeName="d"
+      values="
+      M-50 80 C120 10 200 150 370 80 S620 10 790 80 S1040 150 1250 40;
+      M-50 110 C120 180 220 20 390 100 S620 180 810 70 S1050 20 1250 100;
+      M-50 50 C120 130 230 10 390 80 S650 20 800 120 S1050 150 1250 50;
+      M-50 80 C120 10 200 150 370 80 S620 10 790 80 S1040 150 1250 40"
+      dur="7s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <!-- RGB flowing wave 2 -->
+  <path d="M-50 220
+           C120 150 220 280 390 205
+           S650 140 820 220
+           S1050 280 1250 180"
+        fill="none"
+        stroke="url(#rgb)"
+        stroke-width="5"
+        filter="url(#glow)"
+        opacity="0.65">
+
+    <animate attributeName="d"
+      values="
+      M-50 220 C120 150 220 280 390 205 S650 140 820 220 S1050 280 1250 180;
+      M-50 190 C130 270 220 150 400 225 S650 270 820 175 S1050 150 1250 230;
+      M-50 240 C120 170 240 290 400 190 S650 150 830 240 S1050 270 1250 190;
+      M-50 220 C120 150 220 280 390 205 S650 140 820 220 S1050 280 1250 180"
+      dur="9s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <!-- Main title -->
+  <text x="600" y="125"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="58"
+        font-weight="800"
+        letter-spacing="5"
+        fill="white">
+    ABDUL AZEEZ
+  </text>
+
+  <!-- RGB underline -->
+  <rect x="300" y="145"
+        width="600"
+        height="3"
+        rx="2"
+        fill="url(#rgb)">
+    <animate attributeName="x"
+             values="300;250;300"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtitle -->
+  <text x="600" y="180"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="600"
+        letter-spacing="2"
+        fill="#e2e8f0">
+    FULL STACK DEVELOPER • JAVA • SPRING BOOT • REACT • AI
+  </text>
+
+  <!-- Tagline -->
+  <text x="600" y="215"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        letter-spacing="4"
+        fill="url(#rgb)">
+    LEARN • BUILD • IMPROVE • GROW
+  </text>
+
+</svg>
