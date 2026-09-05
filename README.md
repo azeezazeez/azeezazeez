@@ -499,6 +499,8 @@ alt="Cloud Technologies"
 
 <td align="center" width="170">
 
+<img src="https://skillicons.dev/icons?i=ai" width="50" alt="AI"/>
+
 <br><br>
 
 <b>AI Applications</b>
