@@ -14,7 +14,9 @@
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
 <!-- ======================== NAVIGATION ======================== -->
 
@@ -75,9 +77,16 @@ Portfolio
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
-# 👨‍💻 About Me
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&text=ABOUT%20ME&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=0:020617,25:0E75B6,50:7C3AED,75:EC4899,100:06B6D4" width="100%" alt="ABOUT ME"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=45&lines=ABOUT%20ME" width="100%" alt="ABOUT ME animated title"/>
+
+</div>
 
 <div align="center">
 
@@ -86,7 +95,7 @@ Portfolio
 
 <td width="50%" valign="top">
 
-<h3>🚀 Who I Am</h3>
+<h3>👨‍💻 Who I Am</h3>
 
 <p>
 I'm <b>Abdul Azeez</b>, a passionate <b>Full Stack Developer</b>
@@ -113,46 +122,56 @@ I believe the best way to learn technology is to
 
 <td width="50%" valign="top">
 
-<h3>🎯 What I Work With</h3>
+<h3 align="center">🎯 What I Work With</h3>
 
-<table>
+<table align="center" cellspacing="0" cellpadding="8">
 
 <tr>
-<td>☕</td>
-<td>
+<td align="center" valign="middle" width="50">
+☕
+</td>
+<td valign="middle">
 <b>Backend Development</b><br>
 <sub>Java • Spring Boot • REST APIs</sub>
 </td>
 </tr>
 
 <tr>
-<td>⚛️</td>
-<td>
+<td align="center" valign="middle" width="50">
+⚛️
+</td>
+<td valign="middle">
 <b>Frontend Development</b><br>
 <sub>React • Angular • HTML • CSS • JavaScript</sub>
 </td>
 </tr>
 
 <tr>
-<td>🗄️</td>
-<td>
+<td align="center" valign="middle" width="50">
+🗄️
+</td>
+<td valign="middle">
 <b>Database Development</b><br>
 <sub>MySQL • PostgreSQL • Oracle</sub>
 </td>
 </tr>
 
 <tr>
-<td><img src="https://skillicons.dev/icons?i=ai" width="15" alt="AI"/></td>
-<td>
+<td align="center" valign="middle" width="50">
+🤖
+</td>
+<td valign="middle">
 <b>AI Applications</b><br>
 <sub>AI APIs • Intelligent application features</sub>
 </td>
 </tr>
 
 <tr>
-<td>🐳</td>
-<td>
-<b>Development & Deployment</b><br>
+<td align="center" valign="middle" width="50">
+🐳
+</td>
+<td valign="middle">
+<b>Development &amp; Deployment</b><br>
 <sub>Git • Docker • Linux • AWS</sub>
 </td>
 </tr>
@@ -168,9 +187,16 @@ I believe the best way to learn technology is to
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
-# 🎯 Current Focus
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&text=CURRENT%20FOCUS&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=0:020617,25:06B6D4,50:22C55E,75:7C3AED,100:020617" width="100%" alt="CURRENT FOCUS"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=45&lines=CURRENT%20FOCUS" width="100%" alt="CURRENT FOCUS animated title"/>
+
+</div>
 
 <div align="center">
 
@@ -262,13 +288,22 @@ src="https://skillicons.dev/icons?i=java,spring,react,docker,aws"
 alt="Current Technology Focus"
 />
 
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=30&lines=CODE+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEPLOY;JAVA+%E2%86%92+SPRING+BOOT+%E2%86%92+REACT+%E2%86%92+AI" alt="Animated development pipeline"/>
+
 </div>
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
-# 🚀 Featured Projects
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&text=FEATURED%20PROJECTS&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=0:020617,25:7C3AED,50:EC4899,75:F97316,100:06B6D4" width="100%" alt="FEATURED PROJECTS"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=45&lines=FEATURED%20PROJECTS" width="100%" alt="FEATURED PROJECTS animated title"/>
+
+</div>
 
 <div align="center">
 
@@ -371,9 +406,16 @@ alt="All Repositories"
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
-# 🔥 Contribution Streak
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&text=CONTRIBUTION%20STREAK&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=0:020617,25:06B6D4,50:2563EB,75:7C3AED,100:EC4899" width="100%" alt="CONTRIBUTION STREAK"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=45&lines=CONTRIBUTION%20STREAK" width="100%" alt="CONTRIBUTION STREAK animated title"/>
+
+</div>
 
 <div align="center">
 
@@ -386,13 +428,20 @@ alt="GitHub Contribution Streak"
 
 <br>
 
----
-
-# 💻 Languages & Tools
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
 <div align="center">
 
-### ☕ Languages
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&text=LANGUAGE%20AND%20TOOLS&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=0:020617,25:06B6D4,50:2563EB,75:7C3AED,100:EC4899" width="100%" alt="LANGUAGE & TOOLS"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=45&lines=CONTRIBUTION%20STREAK" width="100%" alt="Language & Tools animated title"/>
+
+</div>
+
+<div align="center">
+
+☕ Languages
 
 <img
 src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"
@@ -401,7 +450,7 @@ alt="Programming Languages"
 
 <br><br>
 
-### 🌐 Frontend
+🌐 Frontend
 
 <img
 src="https://skillicons.dev/icons?i=html,css,react,angular"
@@ -410,7 +459,7 @@ alt="Frontend Technologies"
 
 <br><br>
 
-### 🌱 Backend
+🌱 Backend
 
 <img
 src="https://skillicons.dev/icons?i=spring"
@@ -419,7 +468,7 @@ alt="Backend Technologies"
 
 <br><br>
 
-### 🗄️ Databases
+🗄️ Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50" alt="MySQL PostgreSQL"/>
@@ -428,16 +477,18 @@ alt="Backend Technologies"
 
 <br><br>
 
-### 🛠️ Tools & DevOps
+🛠️ Tools & DevOps
 
 <img
 src="https://skillicons.dev/icons?i=git,github,docker,linux,postman"
 alt="Development Tools"
 />
 
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&duration=2400&pause=600&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=28&lines=BUILDING+SCALABLE+SOFTWARE;EXPLORING+AI-POWERED+APPLICATIONS;ALWAYS+LEARNING+%E2%80%A2+ALWAYS+IMPROVING" alt="Animated developer motto"/>
+
 <br><br>
 
-### ☁️ Cloud
+☁️ Cloud
 
 <img
 src="https://skillicons.dev/icons?i=aws"
@@ -448,9 +499,16 @@ alt="Cloud Technologies"
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
-# 🧠 Learning Pipeline
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&text=LEARNING%20PIPELINE&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=0:020617,25:F97316,50:EC4899,75:7C3AED,100:06B6D4" width="100%" alt="LEARNING PIPELINE"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=45&lines=LEARNING%20PIPELINE" width="100%" alt="LEARNING PIPELINE animated title"/>
+
+</div>
 
 <div align="center">
 
@@ -514,9 +572,16 @@ alt="Cloud Technologies"
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
-# 📄 Resume
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&text=RESUME&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=0:020617,25:06B6D4,50:7C3AED,75:EC4899,100:020617" width="100%" alt="RESUME"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=45&lines=RESUME" width="100%" alt="RESUME animated title"/>
+
+</div>
 
 <div align="center">
 
@@ -537,9 +602,16 @@ alt="AZEEZ_RESUME"
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
-# 🌐 Let's Connect
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=75&text=LET%27S%20CONNECT&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&color=0:020617,25:EC4899,50:F97316,75:06B6D4,100:7C3AED" width="100%" alt="LET'S CONNECT"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=45&lines=LET%27S%20CONNECT" width="100%" alt="LET'S CONNECT animated title"/>
+
+</div>
 
 <div align="center">
 
@@ -635,11 +707,13 @@ alt="Portfolio"
 
 <br>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,50:7C3AED,100:EC4899" width="85%" alt="RGB separator"/>
+</div>
 
 <div align="center">
 
-<h2>🚀 Build. Learn. Improve.</h2>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%9A%80+BUILD.+LEARN.+IMPROVE.;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+CODE.+CREATE.+INNOVATE." alt="Animated closing message"/>
 
 <i>Thanks for stopping by.</i>
 
