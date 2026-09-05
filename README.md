@@ -142,7 +142,7 @@ I believe the best way to learn technology is to
 </tr>
 
 <tr>
-<td>🤖</td>
+<td><img src="https://skillicons.dev/icons?i=ai" width="15" alt="AI"/></td>
 <td>
 <b>AI Applications</b><br>
 <sub>AI APIs • Intelligent application features</sub>
@@ -224,7 +224,7 @@ Component Development
 
 <td align="center" width="180">
 
-<h2>🤖</h2>
+<h2><img src="https://skillicons.dev/icons?i=ai" width="25" alt="AI"/></h2>
 
 <b>AI Applications</b>
 
