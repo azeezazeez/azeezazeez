@@ -489,17 +489,13 @@ alt="Cloud Technologies"
 
 <div align="center">
 
-<a href="https://github.com/azeezazeez/Portfolio/blob/main/Portfolio/public/AZEEZ_RESUME.pdf">
-
-<img
-src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000"
-alt="AZEEZ_RESUME"
-/>
-
-<br>
-
-<b>View My Resume</b>
-
+<a href="https://drive.google.com/file/d/1eMBsUVQfxE9Zk9ThTyIb1x9Hm0pmpd5W/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000"
+    alt="AZEEZ_RESUME"
+  />
+  <br>
+  <b>View My Resume</b>
 </a>
 
 </div>
