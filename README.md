@@ -229,7 +229,7 @@ alt="Current Technology Focus"
 <a href="https://github.com/azeezazeez/Twinkle-AI">
 
 <img
-src="https://lh3.googleusercontent.com/d/18Z341Q6-Dq9OZHVhNG7kZZwMHKTLfmJM"
+src="https://lh3.googleusercontent.com/d/1w5Uw5rhDo3yxVDrIUDZgA9yNgLb3INsR"
 width="95%"
 alt="Nexus AI Chatbot"
 />
