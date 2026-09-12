@@ -163,7 +163,7 @@ I believe the best way to learn technology is to
 </tr>
 
 <tr>
-<td align="center">🤖</td>
+<td align="center">✦</td>
 <td>
 <b>AI Applications</b><br>
 <sub>AI APIs • Intelligent application features</sub>
@@ -222,11 +222,11 @@ alt="Current Technology Focus"
 
 <td width="50%" align="center" valign="top">
 
-<h2>🤖</h2>
+<h2>✦</h2>
 
-<h3>Nexus AI Chatbot</h3>
+<h3>Twinkle AI</h3>
 
-<a href="https://github.com/azeezazeez/Nexus-AI-Chatbot">
+<a href="https://github.com/azeezazeez/Twinkle-AI">
 
 <img
 src="https://lh3.googleusercontent.com/d/18Z341Q6-Dq9OZHVhNG7kZZwMHKTLfmJM"
