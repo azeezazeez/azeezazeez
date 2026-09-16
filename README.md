@@ -259,7 +259,7 @@ chatbot experience.
 
 <h3>Zyphora E-Commerce</h3>
 
-<a href="https://github.com/azeezazeez/Cartify-Web-Application">
+<a href="https://github.com/azeezazeez/Zyphora-Ecommerce">
 
 <img
 src="https://lh3.googleusercontent.com/d/1GUGHfEonkxsCrqjiX9MtoRu0O__QMFNV"
