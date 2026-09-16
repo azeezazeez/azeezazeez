@@ -257,14 +257,14 @@ chatbot experience.
 
 <h2>🛒</h2>
 
-<h3>Cartify Web Application</h3>
+<h3>Zyphora E-Commerce</h3>
 
 <a href="https://github.com/azeezazeez/Cartify-Web-Application">
 
 <img
 src="https://lh3.googleusercontent.com/d/1GUGHfEonkxsCrqjiX9MtoRu0O__QMFNV"
 width="95%"
-alt="Cartify Web Application"
+alt="Zyphora E-Commerce"
 />
 
 </a>
@@ -280,7 +280,7 @@ shopping workflows.
 <code>Web</code>
 </p>
 
-<a href="https://github.com/azeezazeez/Cartify-Web-Application">
+<a href="https://github.com/azeezazeez/Zyphora-Ecommerce">
 <img src="https://cdn.simpleicons.org/github/38BDF8" width="28" height="28" alt="GitHub"/>
 </a>
 
