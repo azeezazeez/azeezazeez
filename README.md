@@ -220,13 +220,17 @@ alt="Current Technology Focus"
 <table align="center">
 <tr>
 
+<!-- ======================== TWINKLE AI ======================== -->
+
 <td width="50%" align="center" valign="top">
 
 <h2>✧</h2>
 
 <h3>Twinkle AI</h3>
 
-<a href="https://github.com/azeezazeez/Twinkle-AI">
+<a href="https://github.com/azeezazeez/Twinkle-AI"
+   target="_blank"
+   rel="noopener noreferrer">
 
 <img
 src="https://lh3.googleusercontent.com/d/1w5Uw5rhDo3yxVDrIUDZgA9yNgLb3INsR"
@@ -247,11 +251,37 @@ chatbot experience.
 <code>Web</code>
 </p>
 
-<a href="https://github.com/azeezazeez/Twinkle-AI">
-<img src="https://cdn.simpleicons.org/github/38BDF8" width="28" height="28" alt="GitHub"/>
+<div align="center">
+
+<a href="https://github.com/azeezazeez/Twinkle-AI"
+   target="_blank"
+   rel="noopener noreferrer">
+<img
+src="https://cdn.simpleicons.org/github/38BDF8"
+width="28"
+height="28"
+alt="GitHub"
+border="0"
+/>
+</a>&nbsp;&nbsp;
+<a href="https://twinkeai.vercel.app"
+   target="_blank"
+   rel="noopener noreferrer">
+<img
+src="https://img.icons8.com/ios-filled/50/38BDF8/globe.png"
+width="28"
+height="28"
+alt="Live Website"
+border="0"
+/>
 </a>
 
+</div>
+
 </td>
+
+
+<!-- ======================== ZYPHORA E-COMMERCE ======================== -->
 
 <td width="50%" align="center" valign="top">
 
@@ -259,7 +289,9 @@ chatbot experience.
 
 <h3>Zyphora E-Commerce</h3>
 
-<a href="https://github.com/azeezazeez/Zyphora-Ecommerce">
+<a href="https://github.com/azeezazeez/Zyphora-Ecommerce"
+   target="_blank"
+   rel="noopener noreferrer">
 
 <img
 src="https://lh3.googleusercontent.com/d/1jfkDXIh-7LwFBTNeor8HRK2GNkcIRV17"
@@ -280,9 +312,32 @@ shopping workflows.
 <code>Web</code>
 </p>
 
-<a href="https://github.com/azeezazeez/Zyphora-Ecommerce">
-<img src="https://cdn.simpleicons.org/github/38BDF8" width="28" height="28" alt="GitHub"/>
+<div align="center">
+
+<a href="https://github.com/azeezazeez/Zyphora-Ecommerce"
+   target="_blank"
+   rel="noopener noreferrer">
+<img
+src="https://cdn.simpleicons.org/github/38BDF8"
+width="28"
+height="28"
+alt="GitHub"
+border="0"
+/>
+</a>&nbsp;&nbsp;
+<a href="https://zyphora-cart.vercel.app"
+   target="_blank"
+   rel="noopener noreferrer">
+<img
+src="https://img.icons8.com/ios-filled/50/38BDF8/globe.png"
+width="28"
+height="28"
+alt="Live Website"
+border="0"
+/>
 </a>
+
+</div>
 
 </td>
 
