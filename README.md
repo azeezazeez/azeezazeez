@@ -262,7 +262,7 @@ chatbot experience.
 <a href="https://github.com/azeezazeez/Zyphora-Ecommerce">
 
 <img
-src="https://lh3.googleusercontent.com/d/1GUGHfEonkxsCrqjiX9MtoRu0O__QMFNV"
+src="https://lh3.googleusercontent.com/d/1jfkDXIh-7LwFBTNeor8HRK2GNkcIRV17"
 width="95%"
 alt="Zyphora E-Commerce"
 />
