@@ -544,7 +544,7 @@ alt="Cloud Technologies"
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1eMBsUVQfxE9Zk9ThTyIb1x9Hm0pmpd5W/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1-agCoxdM5QPcSNxvhfsmKSTiZWuY7hyk/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000"
     alt="AZEEZ_RESUME"
