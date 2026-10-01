@@ -294,7 +294,7 @@ border="0"
    rel="noopener noreferrer">
 
 <img
-src="https://lh3.googleusercontent.com/d/1jfkDXIh-7LwFBTNeor8HRK2GNkcIRV17"
+src="https://lh3.googleusercontent.com/d/1QaahXnUtL9Zg8BaMu1OTKQiEov_ZfKQg"
 width="95%"
 alt="Zyphora E-Commerce"
 />
