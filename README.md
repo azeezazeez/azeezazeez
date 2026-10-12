@@ -14,9 +14,11 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azeezazeez&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square&labelColor=020617" alt="Profile Views" />
-</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=azeezazeez&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square&labelColor=020617" alt="Profile Views">
+</div>
+
 
 </div>
 
