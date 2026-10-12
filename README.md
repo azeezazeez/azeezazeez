@@ -12,15 +12,7 @@
 
 <br><br>
 
-<div align="center">
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=azeezazeez&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square&labelColor=020617" alt="Profile Views">
-</div>
-
-
-</div>
+![Profile Views](https://github-view-counter.vercel.app/api?username=azeezazeez&base=619&label=Profile+Views%3A&bgColor=000000&color=B0B0B0&labelColor=B0B0B0&iconColor=B0B0B0&style=for-the-badge)
 
 </div>
 
