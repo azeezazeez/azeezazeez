@@ -229,7 +229,7 @@ alt="Current Technology Focus"
    rel="noopener noreferrer">
 
 <img
-src="https://lh3.googleusercontent.com/d/1YF5EglSJRgRMUTABO_qBZKapm9gEYg_J"
+src="https://lh3.googleusercontent.com/d/1BfZE71L9qDvT36OtwhHZpxsYt_NeFsPu"
 width="95%"
 alt="Twinkle AI"
 />
