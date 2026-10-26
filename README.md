@@ -260,7 +260,7 @@ alt="GitHub"
 border="0"
 />
 </a>&nbsp;&nbsp;
-<a href="https://twinkeai.vercel.app"
+<a href="https://twinkleai.vercel.app"
    target="_blank"
    rel="noopener noreferrer">
 <img
